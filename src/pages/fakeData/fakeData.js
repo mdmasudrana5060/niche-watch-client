@@ -1,0 +1,64 @@
+const watches = [
+    {
+        name: 'Casual',
+        img: 'https://i.postimg.cc/vBc4By4v/casual.png',
+        description: 'This is a black chain watch.This watch you can wear it with casually.',
+        price: 200,
+    },
+    {
+        name: 'Casual2',
+        img: 'https://i.postimg.cc/1XB2YkKL/casual2.png',
+        description: 'This is a blue chain casual watch which you can wear casually.',
+        price: 1200,
+    },
+    {
+        name: 'Casual3',
+        img: 'https://i.postimg.cc/9FxsPj09/casual3.png',
+        description: 'This is a golden top and black  chain casual watch which you can wear casually.',
+        price: 800,
+    },
+    {
+        name: 'Formal',
+        img: 'https://i.postimg.cc/4dT04fLD/formal.png',
+        description: 'This is a silver top and black  belt formal watch which you can wear formally.',
+        price: 1000,
+    },
+    {
+        name: 'Formal2',
+        img: 'https://i.postimg.cc/rFM2qJ0h/formal2.png',
+        description: 'This is a black top and black  belt formal watch which you can wear formally.',
+        price: 800,
+    },
+    {
+        name: 'Ladies',
+        img: 'https://i.postimg.cc/MG1sLk6d/ladies.png',
+        description: 'This is a golden square shpae ladies watch.',
+        price: 3000,
+    },
+    {
+        name: 'Ladies3',
+        img: 'https://i.postimg.cc/L81vqd12/ladies3.png',
+        description: 'This is a blue stone round shape ladies watch.',
+        price: 1500,
+    },
+    {
+        name: 'Ladies4',
+        img: 'https://i.postimg.cc/9FvYHxNS/ladies4.png',
+        description: 'This is a golden round shape ladies watch.',
+        price: 2000,
+    },
+    {
+        name: 'Smart',
+        img: 'https://i.postimg.cc/fRmjzxGb/smart.png',
+        description: 'This is a smart watch.',
+        price: 5000,
+    },
+    {
+        name: 'Sports',
+        img: 'https://i.postimg.cc/nh4Bbnmj/sports.png',
+        description: 'This is a sports watch.',
+        price: 1200,
+    },
+
+
+]

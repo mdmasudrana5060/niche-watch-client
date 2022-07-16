@@ -1,0 +1,28 @@
+.upper-side {
+    display: grid;
+    grid-template-columns: repeat(2, 6fr);
+    grid-gap: 10px;
+    background-color: rgb(53, 142, 231);
+    padding: 10px;
+}
+
+.upper-left-side {
+    text-align: left;
+    font-size: 20px;
+    margin-left: 60px;
+}
+
+.upper-right-side {
+    text-align: left;
+    font-size: 20px;
+    margin-left: 300px
+}
+
+.lower-side {
+    border: 2px solid rgb(26, 118, 209);
+    background-color: rgb(53, 142, 231);
+    text-align: center;
+    padding: 5px;
+    font-weight: 600;
+
+}
