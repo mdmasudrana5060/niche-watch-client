@@ -63,8 +63,8 @@ const Login = () => {
                     <NavLink to="/register" style={{ textDecoration: 'none' }}> <Button>Are You New Here?Please Register</Button> </NavLink>
 
                 </form>
-                <p>---------------------Google sign in----------------------</p>
-                <Button onClick={handleGoogleSignin} variant="contained">Google Sign In</Button>
+                {/* <p>---------------------Google sign in----------------------</p>
+                <Button onClick={handleGoogleSignin} variant="contained">Google Sign In</Button> */}
                 {/* {
                     isLoading && <CircularProgress />
                 }
