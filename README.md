@@ -1,7 +1,7 @@
 Niche watch
 
 Runs the app in the development mode.\
-Project [Live link](https://tour-baby.web.app/)
+Project [Live link](https://niche-watch-client-bc7b6.web.app/home)
 
 - To build front end React Hooks,React Router,Material ui have been used.
 - User role have been set.One is normal user another is Admin.

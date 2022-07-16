@@ -29,12 +29,12 @@ const Login = () => {
         logInUser(loginData.email, loginData.password, location, history);
         e.preventDefault();
     }
-    const handleGoogleSignin = () => {
-        // signInWithGoogle(history, location);
-        // console.log('google button clicked');
-        signInWithGoogle();
+    // const handleGoogleSignin = () => {
+    //     // signInWithGoogle(history, location);
+    //     // console.log('google button clicked');
+    //     signInWithGoogle();
 
-    }
+    // }
     return (
         <>
             <Navigation></Navigation>
